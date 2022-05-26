@@ -1,0 +1,9 @@
+{
+   "todos":[
+       {"id":1,"text": "Local Todo 1" ,"iscompleted":true},
+       {"id":2,"text": "Local Todo 2" ,"iscompleted":false},
+       {"id":3,"text": "Local Todo 3" ,"iscompleted":false}
+      
+
+   ]
+}
